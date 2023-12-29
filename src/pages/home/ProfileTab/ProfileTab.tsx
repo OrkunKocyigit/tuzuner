@@ -16,6 +16,7 @@ export default function ProfileTab() {
     <Accordion>
       {data.map((value) => (
         <AccordionItem
+          key={`profile_item_${value.id}`}
           id={value.id}
           label={value.label}
           desc={value.data}
