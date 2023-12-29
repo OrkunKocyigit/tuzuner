@@ -15,6 +15,7 @@ export default function HomePage() {
         breakpoint: "sm",
         collapsed: { desktop: true, mobile: !opened },
       }}
+      footer={{ height: 60 }}
       padding="md"
     >
       <AppShell.Header>

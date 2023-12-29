@@ -26,23 +26,7 @@ export default function Footer() {
 
   return (
     <Grid h="100%" px="md" bg={theme.colors.dark[9]}>
-      <Grid.Col offset={3} span={7}>
-        <Stack>
-          <Group align="start">
-            <Text fw="bold">{t("footer.address.label")}</Text>
-            <Text>{t("footer.address.detail")}</Text>
-          </Group>
-          <Group>
-            <Text fw="bold">{t("footer.phone.label")}</Text>
-            <Text>{t("footer.phone.detail")}</Text>
-            <Text fw="bold">{t("footer.fax.label")}</Text>
-            <Text>{t("footer.fax.detail")}</Text>
-            <Text fw="bold">{t("footer.mail.label")}</Text>
-            <Text>{t("footer.mail.detail")}</Text>
-          </Group>
-        </Stack>
-      </Grid.Col>
-      <Grid.Col span={1}>
+      <Grid.Col span={{ base: 8, md: 2 }}>
         <Group
           gap={5}
           h="100%"
@@ -78,7 +62,23 @@ export default function Footer() {
           </ActionIcon>
         </Group>
       </Grid.Col>
-      <Grid.Col span={1}>
+      <Grid.Col visibleFrom="md" span={{ base: 9, xl: 8 }} offset={{ xl: 1 }}>
+        <Stack>
+          <Group align="start">
+            <Text fw="bold">{t("footer.address.label")}</Text>
+            <Text>{t("footer.address.detail")}</Text>
+          </Group>
+          <Group>
+            <Text fw="bold">{t("footer.phone.label")}</Text>
+            <Text>{t("footer.phone.detail")}</Text>
+            <Text fw="bold">{t("footer.fax.label")}</Text>
+            <Text>{t("footer.fax.detail")}</Text>
+            <Text fw="bold">{t("footer.mail.label")}</Text>
+            <Text>{t("footer.mail.detail")}</Text>
+          </Group>
+        </Stack>
+      </Grid.Col>
+      <Grid.Col span={{ base: 4, md: 1 }}>
         <Group
           gap={0}
           h="100%"
