@@ -1,0 +1,68 @@
+{
+  "footer": {
+    "address": {
+      "label": "Adres:",
+      "detail": "Tahtakale Mahallesi Fırat1 Caddesi Bahcecity's Residence A Blok Ofis 17 (Bahçeşehir) Avcılar / İstanbul"
+    },
+    "phone": {
+      "label": "Telefon:",
+      "detail": "+90 212 608 10 45"
+    },
+    "fax": {
+      "label": "Fax:",
+      "detail": "+90 212 608 10 46"
+    },
+    "mail": {
+      "label": "Mail:",
+      "detail": "info@tuzunerlaw.com"
+    }
+  },
+  "header": {
+    "label": {
+      "intro": "Ana Sayfa",
+      "expertise": "Hakkımızda",
+      "profile": "Uzmanlık",
+      "contact": "İletişim"
+    }
+  },
+  "tab": {
+    "contact": {
+      "title": "Sosyal Medya",
+      "instagram": "Instagram",
+      "linkedin": "Linkedin",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "fax": "Faks",
+      "address": "Adres"
+    },
+    "expertise": {
+      "info": {
+        "1": "Tuzuner Hukuk Bürosu, 2016 Ocak ayında açılmış olup, 2016 Kasım ayından itibaren Bahçeşehir deki yeni ofisinde müvekkilerine Hukuk Danışmanlığı, Arabuluculuk, Marka ve Patent konularında hizmet vermektedir.",
+        "2": "Tüzüner Hukuk Bürosunun kurucusu N. Pelin Tüzüner Yaşar, 2001 yılında Galatasaray Üniversitesinden mezun olmuş ve akabinde Bilgi Üniversitesinde uluslararası ekonomi hukukunda burslu olarak yüksek lisans yapmıştır. Ulusal ve Uluslararası birçok farklı alanda eğitimlere katılmış ve sertifikalara sahip olmuştur. 2016 yılına kadar Metro AG , Do & Co AG , British American Tobacco gb farklı uluslararası şirketlerde üst düzey yönetici / avukat olarak görev yapmış olup, 2016 yılında kendi ofisini açarak,  Şirketlere dışarıdan danışmanlık hizmeti vermeye başlamıştır. 2016 yılına kadar Şirketlerde görev alması suretiyle, iş ve hukuku birleştirerek , Şirketlere business odaklı danışmanlık hizmeti verme yönünde çalışma prensibi edinmiştir.  Avukatlık görevinin dışında aynı zamanda Türk Patent Enstitüsü nezdinde “Marka ve Patent vekili”dir ve Adalet Bakanlığı nezdinde “Arabulucu” olarak hizmet vermektedir. İyi derecede İngilizcesi ve Fransızcası vardır.  Bahceşehir de aylık dergi de her ay makalesi çıkmakta olup, hukukun farklı alanlarda yapmış olduğu çalışmalar ve yayınlamış olduğu yazılar mevcuttur.",
+        "3": "Tüzüner Hukuk Bürosunun diğer ortağı Mehmet Ali Tüzüner, 1959 Ankara Hukuk Fakültesi mezunudur. 60 a yakın senedir farklı alanlarda şahıs ve şirketlere hizmet vermiş ve halen vermektedir. Engin tecrübesiyle, Tüzüner Hukuk Bürosunun danışmanı olarak her dosyaya ilişkin katkıları mevcuttur.",
+        "4": "2 ortak dışında, avukat ve stajyerlerin de yer aldığı Tüzüner Hukuk Bürosu ulusal ve uluslararası müvekkilere her konuda danışmanlık hizmeti vermekte olup, Ticaret Hukuku, Şirketler Hukuku, Fikri Haklar, İş Hukuku, Sözleşmeler Hukuku, Gayrimenkul Hukuku, İnşaat Hukuku, Sağlık Hukuku, Vergi Hukuku olmak üzere  birçok farklı alanda etkin ve çözüm odaklı  hukuki danışmanlık hizmeti vermekte ve Şirketler adına davaları yürütmektedir.",
+        "5": "Kurumsal bazda da Şirketlere danışmanlık hizmeti verilmekte olup, Kurumlar nezdinde ruhsat ve lisans belgelerin sağlanması, Kurumlar nezdinde Şirketleri temsil vb  hususlara yönelik de hizmetlerimiz mevcuttur."
+      }
+    },
+    "intro": {
+      "summary": "Hukuk büromuz, yerli ve yabancı şirketlere geniş bir yelpazeye yayılan çok sayıda alanda hukuki danışmanlık hizmetleri sunmaktadır.  Hukuk danışmanlığının ve dava takibinin yanı sıra, sertifikalı arabulucu avukatlarımızla arabuluculuk hizmetleri ve sertifikalı marka/patent vekillerimiz ile Türk Patent Enstitüsü nezdinde fikri mülkiyete ilişkin tüm konularda danışmanlık hizmetleri sunmaktayız.  Stratejik avukatlığı benimseyen yetenekli avukatlarımızla, müvekkillerimize, başarılı sonuçlara ulaşan, yüksek vasıflı ve dinamik hukuk müşavirliği hizmeti sunmayı amaçlamaktayız. Özgeçmişlerinde etkileyici başarılara ve vasıflara sahip olan avukatlarımız, aynı zamanda mesleki mükemmeliyet doğrultusunda müvekkillere hukuki tavsiye sunma amacındadırlar."
+    },
+    "profile": {
+      "label": {
+        "1": "Dava Takibi ve Hukuk Danışmanlığı",
+        "2": "Arabuluculuk",
+        "3": "Marka ve Patent Tescili"
+      }
+    }
+  },
+  "brand": {
+    "name": "Tüzüner Hukuk Bürosu"
+  },
+  "language": {
+    "label": {
+      "tr": "TR",
+      "en": "EN",
+      "fr": "FR"
+    }
+  }
+}

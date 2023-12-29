@@ -1,0 +1,68 @@
+{
+  "footer": {
+    "address": {
+      "label": "Address:",
+      "detail": "Tahtakale Mahallesi Fırat1 Caddesi Bahcecity's Residence A Blok Ofis 17\n(Bahçeşehir) Avcılar / İstanbul"
+    },
+    "phone": {
+      "label": "Phone:",
+      "detail": "+90 212 608 10 45"
+    },
+    "fax": {
+      "label": "Fax:",
+      "detail": "+90 212 608 10 46"
+    },
+    "mail": {
+      "label": "Mail:",
+      "detail": "info@tuzunerlaw.com"
+    }
+  },
+  "header": {
+    "label": {
+      "intro": "Home",
+      "expertise": "Firm Profile",
+      "profile": "Expertise",
+      "contact": "Contact"
+    }
+  },
+  "tab": {
+    "contact": {
+      "title": "Social Media",
+      "instagram": "Instagram",
+      "linkedin": "Linkedin",
+      "email": "E-Mail",
+      "phone": "Tel",
+      "fax": "Fax",
+      "address": "Address"
+    },
+    "expertise": {
+      "info": {
+        "1": "Tuzuner Law Firm has been incorporated and started to provide services in January of 2016, and it has been providing its clients with Legal Consultancy, Mediation, Trademarks & Patents in its new office situated at Bahcesehir as of November of 2016. ",
+        "2": "Pelin Tuzuner Yasar, the founder of Tuzuner Law Firm, has graduated from the Galatasaray University in 2001, and subsequently, she received her master's degree on scholarship in international economics law in the Bilgi University. She has attended trainings in various fields, either national or international, and obtained certificates, accordingly.  She has served as a senior executive / attorney at various international corporations, such as Metro AG, Do & Co AG, British American Tobacco, until 2016, and she incorporated her firm in 2016 and started to provide the Corporations with consultancy service, externally.  She has built up and adopted the service principle of provision of business-oriented consulting to the Corporations by associating business with the law since she has served within the organization of various Corporations until 2016. In addition to being an attorney, she is also qualified as a \"Trademarks & Patents Attorney\" before the Turkish Patent Institute, and she serves as a \"Mediator\" before the Ministry of Justice.  She has a good command of both English and French. She writes articles that are published on a monthly periodical circulated in Bahcesehir district, on monthly basis, and she has been engaged in researches and studies and published writings in various fields of law.",
+        "3": "Mehmet Ali Tuzuner, the other partner of Tuzuner Law Firm, has graduated from the Faculty of Law of Ankara University in 1959. He has provided services to individuals and corporations within various fields for a period of approximately 60 years, and he carries on doing so currently. By acting as the counselor of Tuzuner Law Firm, he contributes to each case thanks to his broad experience.",
+        "4": "Tuzuner Law Firm, which employs 2 trainee associates and 1 junior associate in addition to the said 2 partners thereof, provides both the domestic and international clients with consulting service at any field of expertise, and delivers effective and solution-oriented legal consultancy service at numerous fields of expertise, namely Business Law, Corporate Law, Intellectual Property, Labor Law, Law of Contracts, Real Estate Law, Building Law, Medical Law and Tax Law, and carries out litigation for the Corporations.",
+        "5": "Tuzuner Law Firm provides the Corporations with consulting service also on the basis of affairs with the Institutions, and it delivers services such as obtainment of permits and licenses from the respective Institutions and representation of the Corporations before the same, etc.."
+      }
+    },
+    "intro": {
+      "summary": "Our firm provides legal services in a wide range of areas, to both national and international companies. Besides legal consultancy and litigation, we also offer mediation services with our certified mediators and manage all ip related matters before Turkish Patent Institute with our certified trademark/patent attorneys. With our skilled lawyers dedicated to the smart and strategic advocacy, we are committed to providing our clients with a high-caliber and dynamic legal service to achieve successful results. Our lawyers have a combined background of impressive achievements and qualifications, as well as a commitment to the professional excellence, client services and expert legal advices."
+    },
+    "profile": {
+      "label": {
+        "1": "Litigation & Legal Consultancy",
+        "2": "Mediation",
+        "3": "Trademark & Patent Registration"
+      }
+    }
+  },
+  "brand": {
+    "name": "Tuzuner Law Firm"
+  },
+  "language": {
+    "label": {
+      "tr": "TR",
+      "en": "EN",
+      "fr": "FR"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "footer": {
+    "address": {
+      "label": "Adress:",
+      "detail": "Tahtakale Mahallesi Fırat1 Caddesi Bahcecity's Residence A Blok Ofis 17 (Bahçeşehir) Avcılar / İstanbul"
+    },
+    "phone": {
+      "label": "Phone:",
+      "detail": "+90 212 608 10 45"
+    },
+    "fax": {
+      "label": "Fax:",
+      "detail": "+90 212 608 10 46"
+    },
+    "mail": {
+      "label": "Mail:",
+      "detail": "info@tuzunerlaw.com"
+    }
+  },
+  "header": {
+    "label": {
+      "intro": "Page d'accueil",
+      "expertise": "A propos de nous",
+      "profile": "Compétence",
+      "contact": "Contactez nous"
+    }
+  },
+  "tab": {
+    "contact": {
+      "title": "Social Media",
+      "instagram": "Instagram",
+      "linkedin": "Linkedin",
+      "email": "E-Mail",
+      "phone": "Téléphone",
+      "fax": "Fax",
+      "address": "Adresse"
+    },
+    "expertise": {
+      "info": {
+        "1": "Le Cabinet d’Avocats Tuzuner a été fondé et a commencé à donner service officiellement en Janvier 2016, à partir du Novembre 2016, il a ouvert son bureau à Bahçeşehir pour donner service de Conseil Juridique, de Médiation, de Marque et de Licence à ses clients.",
+        "2": "La fondatrice du Cabinet d’Avocats Tüzüner, N. Pelin Tüzüner Yaşar a terminé l’Université de Galatasaray en 2001, ensuite elle a fait son master à l’Université de Bilgi dans le domaine de Droit Économique International en tant que boursière. Elle a participé à des formations Locales et Internationales dans plusieurs domaines et a obtenu plusieurs certificats. Elle a travaillé dans des cadres supérieures / avocate dans des sociétés internationales comme Metro AG, Do & Co AG, British American Tobacco, en 2016 elle a ouvert son cabinet pour donner des services de conseil en externe aux Sociétés. En travaillant dans des Sociétés jusqu’en 2006, elle a adopté le principe de travail de service de conseil axé en business aux Sociétés, en combinant le travail et le Droit. En même temps que son métier d’Avocat, elle est aussi « Représentante de Marque et de Licence » à l’Institut de Licence de Turquie et elle est aussi « Médiatrice » au sein du Ministère de Justice. Elle parle très bien l’Anglais et le Français. Son article est publié chaque mois dans un magazine mensuel a Bahçeşehir, elle a aussi plusieurs articles publiés et des études réalisées dans différents domaines juridiques.",
+        "3": "L’autre associé du Cabinets d’Avocats Tüzüner, M. Mehmet Ali Tüzüner a terminé la Faculté de Droit d’Ankara en 1959. Il a donné service aux personnes et aux sociétés dans différents domaines pendant plus de 60 années et il continue toujours ses activités. Avec sa vaste expérience, il contribue a tous les dossiers du Cabinet d’Avocats Tüzüner en tant que conseiller.",
+        "4": "En dehors de ces 2 associés, avec les stagiaires et avocats , le Cabinet d’Avocats Tüzüner donne des services de conseil dans tous les domaines à ses clients internationaux et locaux, suit les procédures judiciaires au nom des Sociétés et donne des services de conseils juridiques efficaces et axés sur des solutions dans les domaines de Droit de Commerce, de Droit des Sociétés, de Droit de Propriété Intellectuelle, de Droit de Travail, de Droit des Contrats, de Droit des Biens Immobiliers, de Droit de Construction, de Droit de Santé, de Droit des Obligations.",
+        "5": "Au sein du cabinet, il est donné des services de conseil institutionnel aux Sociétés, il a aussi des travaux envers les domaines d’obtient de certificat et de licence au sein des Institutions et de représentation des Sociétés"
+      }
+    },
+    "intro": {
+      "summary": "Notre cabinet présente des services de conseils juridiques aux sociétés locales et internationales, dans plusieurs domaines d’activité. Outre que les services de conseils juridiques et de suivis de dossier juridique, nous présentons aussi des services de médiation avec nos avocats médiateurs certifiés et des services de gestion relatifs a la propriété intellectuelle au sein de l’Institut de Licence de Turquie avec nos avocats de marque/licence certifiés. Avec nos avocats compétents qui ont adapté la représentation stratégique avec plein d’esprit, nous avons l’objectif de présenter des services de conseils juridiques hautement qualifiées et dynamiques ayant des résultats réussis. Nos avocats ayant des succès dans leur vie professionnelle indiqués dans leur cv ont toujours des objectifs de présenter à leurs clients des conseils juridiques basés sur l’expertise et le perfectionnisme professionnelle.  "
+    },
+    "profile": {
+      "label": {
+        "1": "Conseil Juridique et Suivi de Dossier Juridique",
+        "2": "Médiation",
+        "3": "Inscription de Marque et de Licence"
+      }
+    }
+  },
+  "brand": {
+    "name": "CABINET D’AVOCATS TÜZÜNER"
+  },
+  "language": {
+    "label": {
+      "tr": "TR",
+      "en": "EN",
+      "fr": "FR"
+    }
+  }
+}
